@@ -1,1 +1,1 @@
-## You should earse this sentence
+빅데이터 전공 이강훈
