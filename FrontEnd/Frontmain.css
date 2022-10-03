@@ -1,0 +1,165 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+    
+.head{
+    color:palevioletred;
+    line-height: 80px;
+    float:left;
+    font-size: 30px;
+    padding-left:90px;
+    top:0;
+}
+    
+.mobile1{
+    float:right;
+    font-size: 20px;
+    line-height: 80px;
+    background-color:seashell;
+    border-radius: 15%;
+    padding-left:10px;
+    padding-right:10px;
+    margin-right: 50px;
+}
+    
+.gp1{
+    margin-bottom: -5px;
+    margin-right: 5px;
+}
+
+.gp2{
+    margin-bottom : -5px;
+    margin-right: 5px;
+}
+
+.playstore1{
+    float:right;
+    font-size: 20px;
+    line-height: 80px;
+    background-color:seashell;
+    border-radius: 15%;
+    padding-left:10px;
+    padding-right:10px;
+    margin-right: 100px;
+}
+    
+a{
+    color:black;
+    text-decoration: none;
+}
+
+header{
+    border-bottom:1px solid white;
+    position:fixed;
+    width: 100%;
+    background-color: white;
+    top:0;
+    opacity: 0.8;
+}
+
+    .introduce1{
+        padding-top: 250px;
+        padding-left:350px;
+        width:840px;
+        height: 550px;
+
+    }
+
+    .main1{
+        font-size:50px;
+        float: left;
+    }
+
+    .pic1{
+        padding-left:100px;
+    }
+
+    .title{
+        color:palevioletred;
+    }
+
+    .introduce2{
+        padding-left:350px;
+        width:840px;
+        height: 400px;
+    }
+
+    .pic2{
+        float:left;
+    }
+
+
+    .main2{
+        float:right;
+    }
+
+    .font1-1{
+        font-size: 40px;
+    }
+
+    .p1{
+        color:orange;
+    }
+
+    .font1-2{
+        font-size: 25px;
+        color:gray;
+    }
+
+    .introduce3{
+        padding-left:350px;
+        width:840px;
+        height: 400px;
+        padding-top: 180px;
+    }
+
+    .main3{
+        float:left;
+    }
+
+    .font2-1{
+        font-size: 40px;
+    }
+    
+    .p2{
+        color:orange;
+    }
+
+    .font2-2{
+        font-size: 25px;
+        color:gray;
+    }
+
+    .pic3{
+        padding-left:100px
+    }
+
+    .introduce4{
+        padding-left:350px;
+        width:840px;
+        height: 400px;
+        padding-top: 220px;
+    }
+
+    .pic4{
+        float:left;
+    }
+
+    .font3-1{
+        font-size: 40px;
+    }
+    
+    .p3{
+        color:orange;
+    }
+
+    .font3-2{
+        font-size: 25px;
+        color:gray;
+    }
+    
+    .main4{
+        float:right;
+    }
